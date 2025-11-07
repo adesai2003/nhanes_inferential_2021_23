@@ -1,0 +1,12 @@
+polars
+pandas
+requests
+scipy
+numpy
+matplotlib
+statsmodels
+sqlalchemy
+seaborn
+faker
+tabulate 
+sweetviz
